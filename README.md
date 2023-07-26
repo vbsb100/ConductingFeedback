@@ -9,3 +9,10 @@
   <li>Prompt: Which option? Use <code> 1-4 </code> </li>
   <li>Prompt: What is your video name? Use <code> video_name </code> without .MOV </li>
 </ol>
+
+# Acknowledgments
+Special thanks to Dr. Salgian for their guidance, support, and invaluable insights throughout the development of the ConductingTutor application. Their expertise and dedication have been instrumental in shaping the project and contributing to its success.
+
+We are grateful for the knowledge and encouragement provided by Dr. Salgian, which has significantly enriched our learning experience and empowered us to create this application.
+
+
